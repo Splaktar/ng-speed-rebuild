@@ -62,7 +62,6 @@
             ],
             "showCircularDependencies": false,
             "namedChunks": false,
-            "i18nFormat": "xtb",
             "i18nMissingTranslation": "warning",
             "optimization": false,
             "buildOptimizer": false,
@@ -124,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "one"
+    }
+  },
+  "defaultProject": "one",
+  "cli": {
+    "analytics": "729da58f-2f0f-498a-91cd-e602723cba3d"
+  }
 }
